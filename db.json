@@ -24,5 +24,79 @@
       "stock": "",
       "id": 4
     }
+  ],
+  "examPrduct": [
+    {
+      "title": "ECommerce",
+      "date": "20-04-2023",
+      "details": "new collation",
+      "price": "2500"
+    },
+    {
+      "title": "New Collation",
+      "date": "22-04-2021",
+      "details": "lorem ipsure collations design",
+      "price": "2800"
+    },
+    {
+      "title": "Highest Selling",
+      "date": "10-01-2022",
+      "details": "new collation and design ",
+      "price": "500"
+    },
+    {
+      "title": "t-shirt",
+      "date": "30-04-2023",
+      "details": "new collation lorem ipusre new collation",
+      "price": "3500"
+    },
+    {
+      "title": "shirt",
+      "date": "26-12-2023",
+      "details": "lorem new collation",
+      "price": "1000"
+    },
+    {
+      "title": "Design",
+      "date": "23-02-2023",
+      "details": "new collation lorem ipsure lorem ipsure",
+      "price": "700"
+    },
+    {
+      "title": "shirt",
+      "date": "23-1-2020",
+      "details": "lorem ipsur 420",
+      "price": "1250"
+    },
+    {
+      "title": "New Collation",
+      "date": "22-04-2021",
+      "details": "lorem ipsure collations design",
+      "price": "2800"
+    },
+    {
+      "title": "Highest Selling",
+      "date": "10-01-2022",
+      "details": "new collation and design ",
+      "price": "500"
+    },
+    {
+      "title": "t-shirt",
+      "date": "30-04-2023",
+      "details": "new collation lorem ipusre new collation",
+      "price": "3500"
+    },
+    {
+      "title": "Design",
+      "date": "23-02-2023",
+      "details": "new collation lorem ipsure lorem ipsure",
+      "price": "700"
+    },
+    {
+      "title": "shirt",
+      "date": "23-1-2020",
+      "details": "lorem ipsur 420",
+      "price": "1250"
+    }
   ]
 }
