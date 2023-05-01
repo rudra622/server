@@ -1,0 +1,28 @@
+{
+  "product": [
+    {
+      "img": "https://contents.mediadecathlon.com/p1648021/52693729bdfdd51a3ad78a8b18d7294a/p1648021.jpg?format=auto&quality=70&f=650x0",
+      "title": "t-shirt",
+      "details": "new collation",
+      "price": "2500",
+      "stock": "availble",
+      "id": 1
+    },
+    {
+      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Fdesigner-sports-t-shirt-17548343533.html&psig=AOvVaw2WP7N8kUDXSVlxhLxYjeJb&ust=1682313307645000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMj648qfv_4CFQAAAAAdAAAAABAE",
+      "title": "shirt",
+      "details": "lorem ipsur 420",
+      "price": "1250",
+      "stock": "limited",
+      "id": 2
+    },
+    {
+      "img": "https://contents.mediadecathlon.com/p1648021/52693729bdfdd51a3ad78a8b18d7294a/p1648021.jpg?format=auto&quality=70&f=650x0",
+      "title": "",
+      "details": "",
+      "price": "250",
+      "stock": "",
+      "id": 4
+    }
+  ]
+}
